@@ -7,9 +7,11 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Language: Ruby
 * Code: 1a.rb and 1b.rb
 * Outcome: Success
+* Difficulty: 2
 
 ## Day 2
 
 * Language: Lua
 * Code: 2a.lua and 2b.lua
 * Outcome: Success
+* Difficulty: 2
