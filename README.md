@@ -22,3 +22,16 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Code: https://docs.google.com/spreadsheets/d/1f1N2LsUbQnRyxiSmLw90v-11FKw4qUFjRGznE7fnP_U/edit?usp=sharing
 * Outcome: Success
 * Difficulty: 2/10
+
+## Day 4
+
+* Language: Ada
+* Code: foura.adb
+* Outcome: Failed
+* Failure Point: Couldn't figure out how to set an index in a string to a character.
+* Difficulty: 10/10
+
+* Language: Python
+* Code: 4a.py and 4b.py
+* Outcome: Success
+* Difficulty: 1/10
