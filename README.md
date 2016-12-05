@@ -35,3 +35,10 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Code: 4a.py and 4b.py
 * Outcome: Success
 * Difficulty: 1/10
+
+## Day 5
+
+* Language: Erlang
+* Code: 5a.erl (for both parts)
+* Outcome: Success
+* Difficulty: 5/10
