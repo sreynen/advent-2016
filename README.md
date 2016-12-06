@@ -42,3 +42,10 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Code: 5a.erl (for both parts)
 * Outcome: Success
 * Difficulty: 5/10
+
+## Day 6
+
+* Language: SQL
+* Code: 6a.sql and 6b.sql
+* Outcome: Success
+* Difficulty: 1/10
