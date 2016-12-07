@@ -49,3 +49,10 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Code: 6a.sql and 6b.sql
 * Outcome: Success
 * Difficulty: 1/10
+
+## Day 7
+
+* Language: shell commands (sed, grep, and wc)
+* Code: 7a.sh and 7b.sh
+* Outcome: Success
+* Difficulty: 4/10
