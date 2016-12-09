@@ -56,3 +56,9 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 * Code: 7a.sh and 7b.sh
 * Outcome: Success
 * Difficulty: 4/10
+
+## Day 8
+* Language: ocaml
+* Code: eighta.ml (for both parts)
+* Outcome: Success
+* Difficulty: 7/10
