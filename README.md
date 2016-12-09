@@ -25,11 +25,15 @@ This is code used to answer the challenges from http://adventofcode.com/2016/. A
 
 ## Day 4
 
+Take 1
+
 * Language: Ada
 * Code: foura.adb
 * Outcome: Failed
 * Failure Point: Couldn't figure out how to set an index in a string to a character.
 * Difficulty: 10/10
+
+Take 2
 
 * Language: Python
 * Code: 4a.py and 4b.py
