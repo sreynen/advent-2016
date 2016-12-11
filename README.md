@@ -66,3 +66,26 @@ Take 2
 * Code: eighta.ml (for both parts)
 * Outcome: Success
 * Difficulty: 7/10
+
+## Day 9
+* Language: Swift
+* Code: 9a.swift and 9b.Swift
+* Outcome: Partial Success (9b still running)
+* Difficulty: 6/10
+
+## Day 10
+
+Take 1
+
+* Language: Paper and Pencil
+* Code: N/A
+* Outcome: Failed
+* Failure Point: Turns on a graph with 210 points is super complicated.
+* Difficulty: 10/10
+
+Take 2
+
+* Language: Scala
+* Code: 10a.scala
+* Outcome: Success
+* Difficulty: 2/10
