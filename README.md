@@ -103,3 +103,10 @@ Take 2
 * Code: 12a.txt and 12b.txt
 * Outcome: Success
 * Language Difficulty: 2/10
+
+## Day 13
+
+* Language: C++
+* Code: 13a.c and 13b.txt
+* Outcome: Success
+* Language Difficulty: 3/10
